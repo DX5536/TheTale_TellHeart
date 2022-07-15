@@ -1,7 +1,15 @@
 # The Tell-Tale Heart
 A walking-sim adaptation of Edgar Allen Poe's "The Tell-Tale Heart".
 
+Control:
+* WASD: Move
+* Space: Jump
+* L.Click: Interact with item
+* E: Turn on/off Lamp & continue dialog
+* ESC: Pause
+
 Created for 3. Semester: "Game als Erzählung" in University of Europe Applied Sciences.
+
 Play here: https://dx5536.itch.io/the-tell-tale-heart
 
 # Submission to "Game als Erzählung" WiSe 2021/2022 of University of Europe for Applied Scieneces
