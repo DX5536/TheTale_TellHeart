@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4274738670498105413
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4274738670498105412}
+  - component: {fileID: 4274738670498105408}
+  - component: {fileID: 4274738670498105411}
+  - component: {fileID: 4274738670498105409}
+  - component: {fileID: 4274738670498105414}
+  - component: {fileID: 4274738670498105415}
+  m_Layer: 0
+  m_Name: SceneManager (OLD and CLUSTERD)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4274738670498105412
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4274738670498105413}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4274738670498105408
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4274738670498105413}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 558b36ce954ac524493f0a6347b528dc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  whichSceneIsThis_READ_ONLY: (0) Introduction
+  mainMenuData: {fileID: 11400000, guid: 6e63d73ca20e7c2468b6c6a699c8f44d, type: 2}
+--- !u!114 &4274738670498105411
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4274738670498105413}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 558b36ce954ac524493f0a6347b528dc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  whichSceneIsThis_READ_ONLY: (1) ToTheHouse
+  mainMenuData: {fileID: 11400000, guid: 5449cf3b7b5c90d40a01f9952541cdcb, type: 2}
+--- !u!114 &4274738670498105409
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4274738670498105413}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 558b36ce954ac524493f0a6347b528dc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  whichSceneIsThis_READ_ONLY: (2) Option
+  mainMenuData: {fileID: 11400000, guid: 4691080a6d82318409bd0b25dc9e924d, type: 2}
+--- !u!114 &4274738670498105414
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4274738670498105413}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 558b36ce954ac524493f0a6347b528dc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  whichSceneIsThis_READ_ONLY: (3) Credits
+  mainMenuData: {fileID: 11400000, guid: dccda8e2a1faef4469303d1f066eb739, type: 2}
+--- !u!114 &4274738670498105415
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4274738670498105413}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44505e8e381e5c44fb108b7ddd7f99dd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/a_MainMenu_Scene.unity
+    guid: a648ab56a39c023409eaeb2f0fab7f68
+  - enabled: 1
+    path: Assets/Scenes/b_00_StartGame_IntroBeginning.unity
+    guid: 3e0155a2d01ac3b439db7661d3ccef26
+  - enabled: 1
+    path: Assets/Scenes/b_01_StartGame_Beginning_NEWHOUSE.unity
+    guid: 537c205124e067548a6aeafcc7ea2ea9
+  - enabled: 1
+    path: Assets/Scenes/b_02_0_StartGame_IntroMainPart.unity
+    guid: 394c2793095612d4880114ded24e6967
+  - enabled: 1
+    path: Assets/Scenes/b_02_1_StartGame_MainPart_NEWHOUSE_BODYPARTS.unity
+    guid: 016210b7126d95e48844b510eed12742
+  - enabled: 1
+    path: Assets/Scenes/b_03_0_StartGame_IntroFinal.unity
+    guid: f94f9ab951b03a84aae073197bcc084f
+  - enabled: 1
+    path: Assets/Scenes/b_03_1_StartGame_Final_NEW_HOUSE.unity
+    guid: 0bd552a2f26568d4e99f1840674d90e4
+  - enabled: 1
+    path: Assets/Scenes/c_Ending.unity
+    guid: 3a25f65e3d9c9c148a0dc69aa175dac8
+  - enabled: 1
+    path: Assets/Scenes/d_Option_Scene.unity
+    guid: 7e901cc8aa61d1541a6dd6716c133974
+  - enabled: 1
+    path: Assets/Scenes/e_Credits_Scene.unity
+    guid: 056faee547cf98c4e9b4c724c0a14c59
+  m_configObjects: {}
